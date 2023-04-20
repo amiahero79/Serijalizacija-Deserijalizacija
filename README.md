@@ -15,6 +15,8 @@ Klase ObjectInputStream i ObjectOutputStream su tokovi visokog nivoa koji sadrž
 Za serijalizaciju objekta pozivamo metodu writeObject() klase ObjectOutputStream, a za deserializaciju pozivamo metodu readObject() klase ObjectInputStream.
 ObjectOutputStream.writeObject() je metoda koja upisuje stanje objekta (npr. u datoteku) kako bi odgovarajuća metoda za čitanje ObjectInputStream.readObject()
 mogla da povrati sačuvano stanje objekta.
+![image](https://user-images.githubusercontent.com/131188224/233394389-ed8930a3-62c2-496e-a33f-174be569163a.png)
+
 
 ObjectOutputStream klasa
 
